@@ -1,0 +1,17 @@
+{
+  "kalimas": [
+    {
+      "kalima_number": 1,
+      "arabic": "أشهد أن لا إله إلا الله وحده لا شريك له",
+      "urdu": "میں گواہی دیتا ہوں کہ اللہ کے سوا کوئی معبود نہیں، وہ اکیلا ہے، اس کا کوئی شریک نہیں",
+      "english": "I bear witness that there is no deity but Allah, He is One, there is no partner with Him"
+    },
+    {
+      "kalima_number": 2,
+      "arabic": "سبحان الله والحمد لله ولا إله إلا الله والله أكبر",
+      "urdu": "پاک ہے اللہ، سب تعریفیں اللہ ہی کے لیے ہیں، اللہ کے سوا کوئی معبود نہیں، اللہ سب سے بڑا ہے",
+      "english": "Glory be to Allah, all praise is due to Allah, there is no deity but Allah, Allah is the Greatest"
+    }
+
+  ]
+}
